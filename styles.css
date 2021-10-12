@@ -1,0 +1,52 @@
+body {
+    background-image: url("img/background-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label {
+    color: white;
+}
+
+input {
+    padding: 8px;
+    margin: 10px;
+    border: none;
+    border-radius: 2px;
+}
+
+.btn {
+    display: block;
+    margin: 20px;
+    position: absolute;
+    bottom: 300px;
+    left: 700px;
+}
+
+.time {
+    color: white;
+    margin: 25px;
+}
+
+.time-display{
+    text-align: center;
+    position: absolute;
+    left: 625px;
+    bottom: 150px;
+}
+
+.image-contrib{
+    position: absolute;
+    left: 10px;
+    bottom: 25px;
+}
+
+.create-contrib{
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+}
+
+span{
+    font-size: 58px;
+}
